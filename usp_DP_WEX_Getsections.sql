@@ -65,7 +65,7 @@ exec [dbo].[usp_DP_WEX_Getsections]	@pSection = 'Applications'
 *				19.07.2021	Fix Bug PayloadPsf
 *				19.07.2021	Bug fix on CuttingConditions
 *				20.07.2021	Change Material id for MainImages
-*				19.08.2021	Change logic to Applications using logic for Cutting Conditions
+*				19.08.2021	Change logic to Applications using logic for Cutting Conditions (sejnmi)
 ****************************************************************************************/
 --DECLARE @pSection  VARCHAR(100) = 'MainImages'
 
